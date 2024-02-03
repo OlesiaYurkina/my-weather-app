@@ -1,0 +1,19 @@
+body {
+  background-color: #f9f7fe;
+}
+div.block {
+  display: block;
+  margin: 0 auto;
+  position: fixed;
+  justify-content: center;
+  border: 1px solid #f2f0f8;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+li {
+  list-style: none;
+}
